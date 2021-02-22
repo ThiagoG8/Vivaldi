@@ -1,0 +1,4 @@
+Background: #191622
+Foreground: #e1e1e6
+Highlight: #7a5fd9
+Accent: #44475a
